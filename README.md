@@ -10,3 +10,4 @@ Read me에 사진 올리는 방법
 
 3. 복사했던 사진을 창에 붙여넣으면 뜨는 코드를 복사하여 Read me에 붙인다.
 ![image](https://user-images.githubusercontent.com/62982187/107839360-b8806b80-6dee-11eb-9f4b-e93d76db98b7.png)
+
